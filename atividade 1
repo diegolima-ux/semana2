@@ -1,0 +1,4 @@
+cavalos = int(input("Digite o numero de cavalos aqui:"))
+
+preco_total = cavalos * 4 * 80
+print ("preco total:", preco_total)
