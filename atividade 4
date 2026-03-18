@@ -1,0 +1,5 @@
+numero = float(input("ponha sua data de nascimento:"))
+
+idade= 2026 - numero 
+
+print ("idade:", idade)
