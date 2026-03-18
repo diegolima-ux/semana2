@@ -1,0 +1,5 @@
+numero = float(input("digite o numero aqui:"))
+
+preco_final = numero * 4 * 395.40
+
+print ("preco final:", preco_final)
