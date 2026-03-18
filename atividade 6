@@ -1,0 +1,5 @@
+valor_fabrica = float(input("digite o valor:"))
+
+desconto= valor_fabrica * 0.18
+valor_final = valor_fabrica - desconto
+print ("valor final: R$", valor_final)
